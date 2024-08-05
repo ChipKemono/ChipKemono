@@ -109,31 +109,3 @@ I write a LOT of code in a plethora of different languages, so I've consolidated
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </details>
-
-## 🛠 My Projects
-I've made / am making a few cool projects, mostly just for fun or to fix small issues I have in my day to day life, public or private, they're listed here if I think they're cool.
-
-Again, they're in a dropdown as to not flood this page.
-
-> [!WARNING]  
-> These projects are just ideas that I've had, and there is **NO GUARANTEE** that they will ever be brought to fruition. *You can blame shiny object syndrome for that one.*
->
-> Items may be added or removed at any time, and may be updated to reflect their progress.
->
-> **P.S Sorry for a lack of links!** I tend to keep repositories private until I've got a working prototype, which I haven't for most of these.
-<details>
-<summary>
-
-### Projects
-
-</summary>
-
-| Name | Description | Status | Links |
-| ---- | ----------- | ------ | ----- |
-| Kane's Animate Importer | A basic Adobe Animate sprite sheet importer for Unity 2022 which I threw together in a couple of hours for a (now cancelled) project I was working on. | Published | [Repository](https://github.com/Kanee-X/AnimateImporter)
-| Kane's Permissive Creative License | A permissive license designed to provide a balance between permissiveness for creative use and maintaining control over the original work. | In Progress | N/A
-| Resonite Canvas<br/><sup>*Working Title*</sup> | A persistent r/place clone made on the [Resonite](https://resonite.com) platform. | In Development | N/A |
-| Kemono | A hardware-agnostic, modular haptics platform made for VRChat using OSC. | Under Consideration. | [Organization](https://github.com/KemonoHaptics) |
-| Irix | An open-source lighting desk software inspired by [QLC+](https://github.com/mcallegari/qlcplus) with a sleek UI, and support for a plethora of protocols and hardware devices. | Stalled (May be revived) | N/A
-
-</details>
