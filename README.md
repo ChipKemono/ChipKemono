@@ -1,5 +1,5 @@
 # 👋 Konnichiwa!
-My name's **Kane Mattsuki**, I'm a full stack programmer, and virtual reality enthusiast from the United Kingdom. I'm currently working on some personal projects which are mostly related to things I am passionate about.
+My name's **Kane** (though most know me as Chip), I'm a full stack programmer, and virtual reality enthusiast from the United Kingdom. I'm currently working on some personal projects which are mostly related to things I am passionate about.
 
 My strongest languages have to be **C#**, **TypeScript** and **Python**, but I also have experience in some other languages too. And a fun fact about me: I don't really like style-sheet based UI frameworks, they're confusing to me.
 
